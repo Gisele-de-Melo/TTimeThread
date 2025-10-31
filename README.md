@@ -13,4 +13,4 @@ O conteúdo desse código é simplesmente em caráter de aprendizado, portanto, 
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/ttimethread/
+  https://www.codedelphi.com/2024/06/ttimethread-em-delphi.html
